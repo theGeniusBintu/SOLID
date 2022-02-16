@@ -1,6 +1,6 @@
 package com.turntabl.ISP;
 
-public class Bintu implements Sing, Dance {
+public class Rusty implements Sing, Dance {
 
     @Override
     public void niceVoice() {
